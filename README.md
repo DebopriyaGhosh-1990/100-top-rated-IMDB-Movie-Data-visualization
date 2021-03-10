@@ -1,7 +1,7 @@
 # 100-top-rated-IMDB-Movie-Data-visualization
 Find out interesting insights into 100 top-rated movies and their voters, using Python
 
-Problem Statement:
+### Problem Statement:
 You have the data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. In this assignment, you will try to find some interesting insights into these movies and their voters, using Python.
 
 Documents present under this repository:
